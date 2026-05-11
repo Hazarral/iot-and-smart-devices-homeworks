@@ -1,0 +1,33 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "SetTimer"
+    },
+    {
+      "name": "CancelTimer"
+    }
+  ],
+  "utterances": [
+    {
+      "text": "cancel the timer",
+      "intent": "CancelTimer",
+      "entities": []
+    },
+    {
+      "text": "stop the timer",
+      "intent": "CancelTimer",
+      "entities": []
+    },
+    {
+      "text": "nevermind the timer",
+      "intent": "CancelTimer",
+      "entities": []
+    },
+    {
+      "text": "turn off the oven timer",
+      "intent": "CancelTimer",
+      "entities": []
+    }
+  ]
+}

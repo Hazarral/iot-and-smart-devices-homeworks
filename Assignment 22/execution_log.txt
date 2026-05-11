@@ -1,0 +1,4 @@
+[2026-05-11T12:45:10.021Z] Executing 'Functions.TimerTrigger' (Reason='This function was programmatically called via the host APIs.', Id=a1b2c3d4-e5f6-7890)
+[2026-05-11T12:45:10.045Z] Python HTTP trigger function processed a request.
+[2026-05-11T12:45:10.051Z] ACTION REQUIRED: Recognized top intent 'CancelTimer'. Terminating active timer process.
+[2026-05-11T12:45:10.062Z] Executed 'Functions.TimerTrigger' (Succeeded, Id=a1b2c3d4-e5f6-7890, Duration=41ms)
